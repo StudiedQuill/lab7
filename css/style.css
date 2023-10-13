@@ -1,8 +1,10 @@
-#main-navbar{
+
+#main-navbar {
   background-color: blue;
   overflow: hidden;	
 }
-#main-navbar ul{
+
+#main-navbar ul {
   float: left;
   position: relative;
   left: 50%;
@@ -10,49 +12,59 @@
   margin: 0;
   padding: 0;
 }
-#main-navbar ul li{
+
+#main-navbar ul li {
   display: block;
   right: 50%;
   position: relative;
   float: left;
 }
-#main-navbar ul li a{
+
+#main-navbar ul li a {
   color: #fff;
   padding: 10px 20px;
   text-decoration: none;
   display: block;
 }
+
 #main-navbar ul li a:hover {
   background-color: #000;
 }
-#navbar-container{
+
+#navbar-container {
   float: left;
   width: 100%;
   position: relative;
 }
-#onpage{
+
+#onpage {
   text-decoration: underline overline;
 }
-#sidebar{
+
+#sidebar {
   background-color: red;
   position: fixed;
   height: 100%;
   width: 20%;
   right: 0%;
 }
-#sidebar ul{
+
+#sidebar ul {
   list-style-type: none;
   padding: 0;
 }
-#sidebar ul li{
+
+#sidebar ul li {
   padding: 15px 0;
   display: block;
   text-align: center;
 }
-#sidebar ul li a{
+
+#sidebar ul li a {
   color: #fff;
   text-decoration: none;
 }
-#sidebar ul li a:hover{
+
+#sidebar ul li a:hover {
   background-color: #000;
 }
