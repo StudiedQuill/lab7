@@ -3,7 +3,6 @@
   background-color: blue;
   overflow: hidden;	
 }
-
 #main-navbar ul {
   float: left;
   position: relative;
@@ -12,35 +11,29 @@
   margin: 0;
   padding: 0;
 }
-
 #main-navbar ul li {
   display: block;
   right: 50%;
   position: relative;
   float: left;
 }
-
 #main-navbar ul li a {
   color: #fff;
   padding: 10px 20px;
   text-decoration: none;
   display: block;
 }
-
 #main-navbar ul li a:hover {
   background-color: #000;
 }
-
 #navbar-container {
   float: left;
   width: 100%;
   position: relative;
 }
-
 #onpage {
   text-decoration: underline overline;
 }
-
 #sidebar {
   background-color: red;
   position: fixed;
@@ -48,23 +41,19 @@
   width: 20%;
   right: 0%;
 }
-
 #sidebar ul {
   list-style-type: none;
   padding: 0;
 }
-
 #sidebar ul li {
   padding: 15px 0;
   display: block;
   text-align: center;
 }
-
 #sidebar ul li a {
   color: #fff;
   text-decoration: none;
 }
-
 #sidebar ul li a:hover {
   background-color: #000;
 }
